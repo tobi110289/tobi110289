@@ -2,11 +2,8 @@
 
 # Tobias Feltes
 
-Full-Stack Software Engineer, working with JavaScript/TypeScript. Gathered most experience in React and React Native in the front- and Node, Koa, Express, PostgreSQL and MongoDb in the back-end.
-Passionate about all things blockchain, making my first steps in the world of web3 and Ethereum.
+Full-Stack Software Engineer with a focus on JavaScript/TypeScript. Currently immersed in the exciting world of GPT-4 and the incredible possibilities it offers. I've recently joined Friday Finance (https://fridayfinance.com/) as a Full Stack Engineer, working to develop innovative financial solutions.
 
-Worked in music for the past 10 years before the great year of change 2020 brought me back to an old passion for software.
-Enjoying the fast paced nature of this field, as it requires me to never stop learning.
-I work best in interaction with others that inspire and challenge to bring the best of me.
+My expertise spans front-end development with React and React Native, and back-end technologies such as Node, Koa, Express, PostgreSQL, and MongoDB. A decade-long journey in the music industry paved the way for a renewed passion for software development, inspired by the dynamic and ever-evolving nature of the field.
 
-Spent quite some time in India over the past 6 years and feel deeply connected to the manifold secrets of its ancient history which play an important role in my daily routine. 
+As a firm believer in continuous learning, I thrive in collaborative environments where I can engage with like-minded individuals to innovate and solve complex challenges.
