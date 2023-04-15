@@ -2,7 +2,7 @@
 
 # Tobias Feltes
 
-Full-Stack Software Engineer with a focus on JavaScript/TypeScript. Currently immersed in the exciting world of GPT-4 and the incredible possibilities it offers. I've recently joined [Friday Finance](https://fridayfinance.com/) as a Full Stack Engineer, working to develop innovative financial solutions.
+Full-Stack Software Engineer with a focus on JavaScript/TypeScript. Currently immersed in the exciting world of LLMs and the incredible possibilities they offer. Part of [Friday Finance](https://fridayfinance.com/) as a Full Stack Engineer, working to develop innovative financial solutions.
 
 My expertise spans front-end development with Vue, React and React Native, and back-end technologies such as Node, Express, PostgreSQL, and MongoDB. A decade-long journey in the music industry paved the way for a renewed passion for software development, inspired by the dynamic and ever-evolving nature of the field.
 
